@@ -7499,8 +7499,8 @@
             "healthy": true,
             "healthy_error": null,
             "latest_version": "13.0.8",
-            "latest_app_version": "4.7.1",
-            "latest_human_version": "4.7.1_13.0.8",
+            "latest_app_version": "5.1.8",
+            "latest_human_version": "4.1.8_13.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/nzbhydra.png"
         },
         "overseerr": {
